@@ -1,6 +1,6 @@
 ---
-title: Magento2 - Ecommerce platform
-subtitle: Magento2.4
+title: " "
+subtitle: " "
 image: img/011-magento-standard-banner1.webp
 blurb:
   heading: What’s New in Magento 2.4?
